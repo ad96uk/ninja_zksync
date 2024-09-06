@@ -1,0 +1,8 @@
+# Ignore specific files
+error_wallets.txt
+wallets.txt
+okx_address.txt
+random_send.txt
+
+# Ignore all log files
+*.log
